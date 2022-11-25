@@ -1,0 +1,5 @@
+C:\Users\AnimeshDas\source\repos\SingleTonDesign\obj\Debug\net6.0\SingleTonDesign.csproj.AssemblyReference.cache
+C:\Users\AnimeshDas\source\repos\SingleTonDesign\obj\Debug\net6.0\SingleTonDesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AnimeshDas\source\repos\SingleTonDesign\obj\Debug\net6.0\SingleTonDesign.AssemblyInfoInputs.cache
+C:\Users\AnimeshDas\source\repos\SingleTonDesign\obj\Debug\net6.0\SingleTonDesign.AssemblyInfo.cs
+C:\Users\AnimeshDas\source\repos\SingleTonDesign\obj\Debug\net6.0\SingleTonDesign.csproj.CoreCompileInputs.cache
