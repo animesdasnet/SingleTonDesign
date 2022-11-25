@@ -5,7 +5,7 @@ namespace SingleTonDesign {
         public static void Main(string[] args)
         {
             SingleTonDesign singleTondesign = SingleTonDesign.Instance;
-            singleTondesign.SingleTonMethod();
+            singleTondesign.SingleTonProperty();
         }
     }
 }
